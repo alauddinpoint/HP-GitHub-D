@@ -14,3 +14,8 @@ span{
     color:rgb(202, 245, 13);
     font-weight: bold;
 }
+h4{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255)
+}
